@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNg Feature Test" >
+  <test name = "TestNg different Feature topics">
+    <classes>
+      
+      <class name= "testNG_Concepts.Demo_Class"/>
+      <class name= "testNG_Concepts.DependsOnMethodKeyword"/>
+      <class name= "testNG_Concepts.Expexted_Keyword"/>
+      <class name= "testNG_Concepts.InvocationCountClass"/>
+      
+    </classes>
+  </test> 
+</suite>
+
+
